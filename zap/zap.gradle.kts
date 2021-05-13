@@ -69,7 +69,7 @@ dependencies {
 
     implementation("commons-validator:commons-validator:1.6")
     // Don't need its dependencies, for now.
-    implementation("org.jitsi:ice4j:1.0") {
+    implementation("org.jitsi:ice4j:3.0-26-gf176d02") {
         setTransitive(false)
     }
     implementation("org.javadelight:delight-nashorn-sandbox:0.1.26")
