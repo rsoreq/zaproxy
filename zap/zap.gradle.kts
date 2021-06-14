@@ -46,7 +46,7 @@ dependencies {
     api("commons-beanutils:commons-beanutils:1.9.4")
     api("commons-codec:commons-codec:1.13")
     api("commons-collections:commons-collections:3.2.2")
-    api("commons-configuration:commons-configuration:1.10")
+    api("commons-configuration:commons-configuration:20041012.002804")
     api("commons-httpclient:commons-httpclient:3.1")
     api("commons-io:commons-io:2.6")
     api("commons-lang:commons-lang:2.6")
