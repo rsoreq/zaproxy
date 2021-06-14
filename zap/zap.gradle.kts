@@ -63,7 +63,7 @@ dependencies {
     api("org.bouncycastle:bcpkix-jdk15on:1.64")
     api("org.hsqldb:hsqldb:2.5.0")
     api("org.jfree:jfreechart:1.0.19")
-    api("org.jgrapht:jgrapht-core:0.9.0")
+    api("org.jgrapht:jgrapht-core:1.5.1")
     api("org.swinglabs.swingx:swingx-all:1.6.5-1")
     api("org.xerial:sqlite-jdbc:3.28.0")
 
