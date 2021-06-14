@@ -67,7 +67,7 @@ dependencies {
     api("org.swinglabs.swingx:swingx-all:1.6.5-1")
     api("org.xerial:sqlite-jdbc:3.28.0")
 
-    implementation("commons-validator:commons-validator:1.6")
+    implementation("commons-validator:commons-validator:1.7")
     // Don't need its dependencies, for now.
     implementation("org.jitsi:ice4j:3.0-26-gf176d02") {
         setTransitive(false)
