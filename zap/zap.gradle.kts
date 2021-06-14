@@ -47,7 +47,7 @@ dependencies {
     api("commons-codec:commons-codec:1.13")
     api("commons-collections:commons-collections:3.2.2")
     api("commons-configuration:commons-configuration:1.10")
-    api("commons-httpclient:commons-httpclient:3.1")
+    api("commons-httpclient:commons-httpclient:20020423")
     api("commons-io:commons-io:2.6")
     api("commons-lang:commons-lang:2.6")
     api("org.apache.commons:commons-lang3:3.9")
