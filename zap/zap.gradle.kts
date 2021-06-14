@@ -60,7 +60,7 @@ dependencies {
     api("org.apache.commons:commons-csv:1.7")
     api("org.bouncycastle:bcmail-jdk15on:1.64")
     api("org.bouncycastle:bcprov-jdk15on:1.64")
-    api("org.bouncycastle:bcpkix-jdk15on:1.64")
+    api("org.bouncycastle:bcpkix-jdk15on:1.69")
     api("org.hsqldb:hsqldb:2.5.0")
     api("org.jfree:jfreechart:1.0.19")
     api("org.jgrapht:jgrapht-core:0.9.0")
