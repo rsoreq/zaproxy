@@ -72,7 +72,7 @@ dependencies {
     implementation("org.jitsi:ice4j:3.0-26-gf176d02") {
         setTransitive(false)
     }
-    implementation("org.javadelight:delight-nashorn-sandbox:0.1.26")
+    implementation("org.javadelight:delight-nashorn-sandbox:0.2.1")
     implementation("com.formdev:flatlaf:0.36")
 
     runtimeOnly("commons-jxpath:commons-jxpath:1.3")
