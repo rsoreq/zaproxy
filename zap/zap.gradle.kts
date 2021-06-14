@@ -59,7 +59,7 @@ dependencies {
     api("net.sf.json-lib:json-lib:2.4:jdk15")
     api("org.apache.commons:commons-csv:1.7")
     api("org.bouncycastle:bcmail-jdk15on:1.64")
-    api("org.bouncycastle:bcprov-jdk15on:1.64")
+    api("org.bouncycastle:bcprov-jdk15on:1.69")
     api("org.bouncycastle:bcpkix-jdk15on:1.64")
     api("org.hsqldb:hsqldb:2.5.0")
     api("org.jfree:jfreechart:1.0.19")
