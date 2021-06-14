@@ -52,7 +52,7 @@ dependencies {
     api("commons-lang:commons-lang:2.6")
     api("org.apache.commons:commons-lang3:3.9")
     api("org.apache.commons:commons-text:1.8")
-    api("edu.umass.cs.benchlab:harlib:1.1.2")
+    api("edu.umass.cs.benchlab:harlib:1.1.3")
     api("javax.help:javahelp:2.0.05")
     api("log4j:log4j:1.2.17")
     api("net.htmlparser.jericho:jericho-html:3.4")
