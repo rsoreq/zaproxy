@@ -50,7 +50,7 @@ dependencies {
     api("commons-httpclient:commons-httpclient:3.1")
     api("commons-io:commons-io:2.6")
     api("commons-lang:commons-lang:2.6")
-    api("org.apache.commons:commons-lang3:3.9")
+    api("org.apache.commons:commons-lang3:3.12.0")
     api("org.apache.commons:commons-text:1.8")
     api("edu.umass.cs.benchlab:harlib:1.1.2")
     api("javax.help:javahelp:2.0.05")
