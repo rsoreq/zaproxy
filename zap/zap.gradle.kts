@@ -49,7 +49,7 @@ dependencies {
     api("commons-configuration:commons-configuration:1.10")
     api("commons-httpclient:commons-httpclient:3.1")
     api("commons-io:commons-io:2.6")
-    api("commons-lang:commons-lang:2.6")
+    api("commons-lang:commons-lang:20030203.000129")
     api("org.apache.commons:commons-lang3:3.9")
     api("org.apache.commons:commons-text:1.8")
     api("edu.umass.cs.benchlab:harlib:1.1.2")
