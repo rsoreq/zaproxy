@@ -91,7 +91,7 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter-params:$jupiterVersion")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:$jupiterVersion")
     testImplementation("org.mockito:mockito-junit-jupiter:3.1.0")
-    testImplementation("org.slf4j:slf4j-log4j12:1.7.28")
+    testImplementation("org.slf4j:slf4j-log4j12:1.7.31")
 
     testRuntimeOnly(files(distDir))
 }
